@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **someguy609/someguy609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hello World, I'm Daniel Adhitthana👋</h1>
+<h3 align="center">Junior Robotics Engineer 🤖 and AI Enthusiast 🧠</h3>
